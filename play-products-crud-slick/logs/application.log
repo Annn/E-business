@@ -1,0 +1,121 @@
+2018-06-18 20:35:20,053 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-9 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 20:35:21,490 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-9 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 20:35:21,499 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-9 - Application started (Dev)
+2018-06-18 20:42:16,864 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-21 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 20:42:17,293 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-21 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 20:42:17,294 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-21 - Application started (Dev)
+2018-06-18 20:44:15,205 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-26 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 20:44:15,537 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-26 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 20:44:15,538 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-26 - Application started (Dev)
+2018-06-18 20:46:50,696 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-55 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 20:46:51,131 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-55 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 20:46:51,132 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-55 - Application started (Dev)
+2018-06-18 20:59:52,633 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-109 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 20:59:53,007 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-109 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 20:59:53,009 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-109 - Application started (Dev)
+2018-06-18 21:04:28,738 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-119 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:04:29,131 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-119 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:04:29,132 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-119 - Application started (Dev)
+2018-06-18 21:07:52,213 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-139 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:07:52,609 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-139 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:07:52,610 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-139 - Application started (Dev)
+2018-06-18 21:12:25,780 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-152 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:12:26,078 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-152 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:12:26,078 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-152 - Application started (Dev)
+2018-06-18 21:13:50,874 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-155 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:13:51,304 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-155 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:13:51,307 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-155 - Application started (Dev)
+2018-06-18 21:14:10,860 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-153 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:14:11,213 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-153 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:14:11,214 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-153 - Application started (Dev)
+2018-06-18 21:20:52,109 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-192 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:20:52,656 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-192 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:20:52,657 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-192 - Application started (Dev)
+2018-06-18 21:27:52,845 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-203 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:27:53,325 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-203 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:27:53,325 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-203 - Application started (Dev)
+2018-06-18 21:32:56,959 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-236 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:32:57,241 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-236 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:32:57,241 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-236 - Application started (Dev)
+2018-06-18 21:43:18,253 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-252 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:43:18,535 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-252 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:43:18,535 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-252 - Application started (Dev)
+2018-06-18 21:48:47,412 [WARN] from slick.basic.DatabaseConfig in play-dev-mode-akka.actor.default-dispatcher-267 - Use `profile` instead of `driver`. The latter is deprecated since Slick 3.2 and will be removed.
+2018-06-18 21:48:47,685 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-267 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2018-06-18 21:48:47,685 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-267 - Application started (Dev)
+2018-06-18 22:06:32,878 [WARN] from com.zaxxer.hikari.pool.HikariPool in db housekeeper - db - Thread starvation or clock leap detected (housekeeper delta=1m45s183ms).

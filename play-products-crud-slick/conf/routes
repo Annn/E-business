@@ -1,0 +1,42 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.ProductController.index
+POST    /addproduct                 controllers.ProductController.addProduct
+GET     /products                   controllers.ProductController.getProducts
+
+# Category
+GET     /category                   controllers.CategoryController.index
+POST    /addcategory                controllers.CategoryController.addCategory
+GET     /categorys                  controllers.CategoryController.getCategory
+
+# User
+GET     /user                       controllers.UserController.index
+POST    /adduser                    controllers.UserController.addUser
+GET     /users                      controllers.UserController.getUser
+
+# Opinion
+GET     /opinion                    controllers.OpinionController.index
+POST    /addopinion                 controllers.OpinionController.addOpinion
+GET     /opinions                   controllers.OpinionController.getOpinion
+
+# Cart
+GET     /cart                       controllers.CartController.index
+POST    /addcart                    controllers.CartController.addCart
+GET     /carts                      controllers.CartController.getCart
+
+# Products to cart
+GET     /cartProduct                controllers.ProductCartController.index
+POST    /addcartProduct             controllers.ProductCartController.addProductCart
+GET     /koszykProducts             controllers.ProductCartController.getCartProducts
+
+# Order
+GET     /order                      controllers.OrderController.index
+POST    /addorder                   controllers.OrderController.addOrder
+GET     /orders                     controllers.OrderController.getOrder
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+

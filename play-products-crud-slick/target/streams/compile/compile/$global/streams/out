@@ -1,0 +1,4 @@
+[error] /Users/anna/IdeaProjects/play-products-crud-slick/app/views/main.scala.html:49:37: value at is not a member of controllers.ReverseAssets
+[error]         <script src="@routes.Assets.at("javascripts/bootstrap.min.js")"></script>
+[error]                                     ^
+[error] one error found

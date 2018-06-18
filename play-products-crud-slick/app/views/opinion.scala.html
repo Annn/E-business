@@ -1,0 +1,26 @@
+@(opinion: Form[CreateOpinionForm], product: Seq[Product])(implicit request: MessagesRequestHeader)
+
+@import helper._
+
+@request.flash.get("success").map { key =>
+    @request.messages(key)
+}
+
+@main("Welcome to Ebiznes") {
+    @form(routes.OpinionController.addOpinion()) {
+        @inputText(opinion("description"))
+
+        <select name="product" id="product">
+        @for(prod <- product){
+            <option value="@prod.id">@prod.name</option>
+        }
+        </select>
+
+
+        @CSRF.formField
+
+        <div class="buttons">
+            <input type="submit" value="Add Opinion"/>
+        </div>
+    }
+}

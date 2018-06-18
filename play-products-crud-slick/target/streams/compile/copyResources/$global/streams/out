@@ -1,0 +1,8 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/anna/IdeaProjects/play-products-crud-slick/conf/logback.xml,/Users/anna/IdeaProjects/play-products-crud-slick/target/scala-2.12/classes/logback.xml)
+[debug] 	(/Users/anna/IdeaProjects/play-products-crud-slick/conf/messages,/Users/anna/IdeaProjects/play-products-crud-slick/target/scala-2.12/classes/messages)
+[debug] 	(/Users/anna/IdeaProjects/play-products-crud-slick/conf/application.conf,/Users/anna/IdeaProjects/play-products-crud-slick/target/scala-2.12/classes/application.conf)
+[debug] 	(/Users/anna/IdeaProjects/play-products-crud-slick/conf/evolutions,/Users/anna/IdeaProjects/play-products-crud-slick/target/scala-2.12/classes/evolutions)
+[debug] 	(/Users/anna/IdeaProjects/play-products-crud-slick/conf/routes,/Users/anna/IdeaProjects/play-products-crud-slick/target/scala-2.12/classes/routes)
+[debug] 	(/Users/anna/IdeaProjects/play-products-crud-slick/conf/evolutions/default,/Users/anna/IdeaProjects/play-products-crud-slick/target/scala-2.12/classes/evolutions/default)
+[debug] 	(/Users/anna/IdeaProjects/play-products-crud-slick/conf/evolutions/default/1.sql,/Users/anna/IdeaProjects/play-products-crud-slick/target/scala-2.12/classes/evolutions/default/1.sql)

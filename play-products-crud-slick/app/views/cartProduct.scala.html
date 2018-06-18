@@ -1,0 +1,27 @@
+@(productCart: Form[CreateProductCartForm], products: Seq[Product], carts: Seq[Cart])(implicit request: MessagesRequestHeader)
+
+@import helper._
+
+@request.flash.get("success").map { key =>
+  @request.messages(key)
+}
+
+@main("Welcome to Ebiznes") {
+    @form(routes.ProductCartController.addProductCart()){
+        @inputText(productCart("number"))
+        <select name="product" id="product">
+            @for(prod <- products){
+            <option value="@prod.id">@prod.name</option>
+            }
+        </select>
+        <select name="cart" id="cart">
+            @for(crt <- carts){
+            <option value="@crt.id">@crt.id</option>
+            }
+        </select>
+        @CSRF.formField
+        <div class="buttons">
+            <input type="submit" value="Add Product"/>
+        </div>
+    }
+}
