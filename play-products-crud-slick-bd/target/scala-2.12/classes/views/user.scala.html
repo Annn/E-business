@@ -1,0 +1,20 @@
+@(usr: Form[CreateUserForm])(implicit request: MessagesRequestHeader)
+
+@import helper._
+
+@request.flash.get("success").map { key =>
+    @request.messages(key)
+}
+
+@main("Welcome to Ebiznes - user") {
+    @form(routes.UserController.addUser()) {
+        @inputText(usr("name"))
+
+        @CSRF.formField
+
+        <div class="buttons">
+            <br>
+            <input class="btn btn-primary" type="submit" value="Add User"/>
+        </div>
+    }
+}

@@ -1,0 +1,13 @@
+[error] /Users/anna/IdeaProjects/play-products-crud-slick/app/views/cart.scala.html:1:1: not found: type CreateCartForm
+[error] @(cart: Form[CreateCartForm], product: Seq[User])(implicit request: MessagesRequestHeader)
+[error] ^
+[error] /Users/anna/IdeaProjects/play-products-crud-slick/app/views/cart.scala.html:1:14: not found: type CreateCartForm
+[error] @(cart: Form[CreateCartForm], product: Seq[User])(implicit request: MessagesRequestHeader)
+[error]              ^
+[error] /Users/anna/IdeaProjects/play-products-crud-slick/app/views/cart.scala.html:10:18: value CartController is not a member of object controllers.routes
+[error]     @form(routes.CartController.addCart()) {
+[error]                  ^
+[error] /Users/anna/IdeaProjects/play-products-crud-slick/app/views/cart.scala.html:25:2: not found: type CreateCartForm
+[error] }
+[error]  ^
+[error] four errors found

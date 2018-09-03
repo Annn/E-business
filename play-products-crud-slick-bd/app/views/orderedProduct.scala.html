@@ -1,0 +1,23 @@
+@(productCart: Form[CreateOrderedProductForm], products: Seq[Product])(implicit request: MessagesRequestHeader)
+
+@import helper._
+
+@request.flash.get("success").map { key =>
+  @request.messages(key)
+}
+
+@main("Welcome to Ebiznes - ordered product") {
+    @form(routes.OrderedProductController.addOrderedProduct()){
+        @inputText(productCart("number"))
+        <select name="product" id="product">
+            @for(prod <- products){
+            <option value="@prod.id">@prod.name</option>
+            }
+        </select>
+
+        @CSRF.formField
+        <div class="buttons">
+            <input type="submit" value="Add Product"/>
+        </div>
+    }
+}
